@@ -1,0 +1,110 @@
+module fifo(write_en,read_en,dout,din,clr,clk,stack_empty,stack_full);
+	input clk,clr;
+	input [15:0] din;
+	input write_en , read_en;
+	output reg [15:0] dout;
+	output reg stack_empty,stack_full;
+	
+	parameter DEPTH = 3, MAX_COUNT = 3'b111;
+	//depth is the no of bits and thus we have 8 mem locations and max_count shows us the last memory     location
+	//now we defing the write pointer and read pointer 
+	//it is used to access the memory locations
+
+	reg [(DEPTH -1):0] write_pointer,read_pointer,count;
+	//count variable acts as a basic counter which helps in traversing through the stack
+	
+	//FIFO Memory 
+	reg [15:0] fifo_mem [0 : MAX_COUNT];
+	
+               /////BOTH READ AND WRITE OPERATION , BUT FIFO IS EMPTY
+	reg read_write_empty;
+	always@(posedge clk)
+	begin 
+		if (clr==1)
+			read_write_empty <= 0;
+		else if(write_en==1 && read_en==1 && stack_empty==1)
+			read_write_empty <= 1;
+		else
+read_write_empty <=0;
+	end
+/////////////COUNTER OPERTAION/////////////
+	always@(posedge clk)
+	begin
+		if(clr == 1)
+			count <= 3'b000;
+		else  
+			begin
+				case ({read_en,write_en})
+					2'b00 : count <= count;
+					2'b01 : if(count != MAX_COUNT)
+							count <= count + 1;
+					2'b10 : if(count != 3'b000)
+							count <= count - 1;
+					2'b11 : if(read_write_empty == 1)
+							count <= count + 1;
+					            else 
+							count <= count;
+					default : count <= count;
+				endcase
+			end
+	end
+	///////////STACK EMPTY OR FULL ALERT/////////
+		//STACK EMPTY
+			always@(count)
+			begin 
+				if(count == 3'b000)
+					stack_empty <= 1;
+				else
+					stack_empty <= 0;
+			end
+			
+		//STACK FULL
+			always@(count)
+			begin 	
+				if(count == MAX_COUNT)
+					stack_full <= 1;
+				else 
+					stack_full <= 0;
+			end
+	///////////READ AND WRITE POINTER LOCATIONS//////////
+		//WRITE POINTER LOCATIONS
+			always@(posedge clk)
+			begin 
+				if(clr == 1)
+					write_pointer <= 3'b000;
+				else if(write_en ==1 && stack_full ==0)
+					write_pointer <= write_pointer + 1;
+			end
+			
+		//READ POINTER LOCATIONS
+			always@(posedge clk)
+			begin 
+				if(clr == 1)
+					read_pointer <= 3'b000;
+				else if(read_en ==1 && stack_empty == 0)
+					read_pointer <= read_pointer + 1;
+			end
+		
+	///////////////READ AND WRITE OPERATIONS////////
+		//WRITE OPERATIONS
+			always@(posedge clk)
+			begin
+				if(write_en ==1 && stack_full == 0)
+					fifo_mem[write_pointer] <= din;
+				else
+					fifo_mem[write_pointer] <= fifo_mem[write_pointer];
+			end
+			
+			
+//READ OPERATIONS
+			always@(posedge clk)
+			begin
+				if(clr == 1)
+					dout <= 16'b000000000000000;
+				else if(read_en == 1 && stack_empty == 0)
+					dout <= fifo_mem[read_pointer];
+				else
+					dout <= dout;
+			end
+endmodule
+
