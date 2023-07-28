@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AbhinavPandey12
-- 👀 I’m interested in coding and collaboration with organisation
-- 🌱 I’m currently learning advanced java
-- 💞️ I’m looking to collaborate on special projects 
-- 📫 How to reach me +91-8588951525
+This project was developed to facilitate parking and to promote hassle free driving. Its
+main purpose is to monitor and signalize the state of availability of every single
+parking slot in the parking lot. Additionally, the project is also capable of providing a
+proper fare calculation technique depending on the time the vehicle has been parked
+in the provided slot.
 
-<!---
-AbhinavPandey12/AbhinavPandey12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
