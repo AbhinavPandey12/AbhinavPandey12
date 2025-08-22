@@ -23,7 +23,7 @@
   
 <div align="center" style="display: flex; justify-content: center; gap: 100px; flex-wrap: wrap;">
 
-  <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank" style="text-decoration:none; display:inline-block;">
+  <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank" style="text-decoration:none; display:inline-block; margin-left: 20px;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
 
