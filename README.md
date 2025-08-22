@@ -94,7 +94,7 @@
 
 ## 📊 GitHub Contributions Dashboard  
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px;">
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhinavPandey12&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
   
