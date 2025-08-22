@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hey Everyone, I'm Abhinav Pandey</h1>  
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Waving Hand"/>  
+  Hey Everyone, I'm Abhinav Pandey
+</h1> 
 <h3 align="center">⚡ Dedicated and versatile Full Stack & System Developer with expertise in delivering efficient applications and scalable solutions.</h3><br>
 
 <!-- Coding GIF section -->
