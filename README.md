@@ -94,14 +94,14 @@
 
 ## 📊 GitHub Contributions Dashboard  
 
-<p align="center">
-  <!-- Row 1 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhinavPandey12&theme=radical&hide_border=true" alt="GitHub Streak" height="180" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavPandey12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<p align="center">
-  <!-- Row 2 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavPandey12&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" /><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavPandey12&theme=radical&hide_border=true" alt="GitHub Activity Graph" height="180" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhinavPandey12&theme=radical&hide_border=true" alt="GitHub Streak" width="45%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavPandey12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavPandey12&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavPandey12&theme=radical&hide_border=true" alt="GitHub Activity Graph" width="45%" />
+
+</div>
