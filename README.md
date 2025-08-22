@@ -6,6 +6,11 @@
 💬 Ask me about **MERN Stack, C/C++, CI/CD, Cloud & DevOps**  
 📫 How to reach me: **abhinavpandey101@gmail.com**  
 
+<!-- Coding GIF section -->
+<p align="right">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="500"/>
+</p>
+
 ---
 
 <!-- Connect with me section -->
@@ -23,11 +28,6 @@
   <a href="https://auth.geeksforgeeks.org/user/abhinavpandey101/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40"/>
   </a>
-</p>
-
-<!-- Coding GIF section -->
-<p align="right">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="500"/>
 </p>
 
 ---
