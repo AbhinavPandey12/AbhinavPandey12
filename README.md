@@ -7,7 +7,7 @@
 📫 How to reach me: **abhinavpandey101@gmail.com**  
 
 <!-- Coding GIF section -->
-<p align="right">
+<p align="top-right">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="300"/>
 </p>
 
