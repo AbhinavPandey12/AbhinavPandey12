@@ -4,9 +4,6 @@
 </h1> 
 <h3 align="center">⚡ Dedicated and versatile Full Stack & System Developer with expertise in delivering efficient applications and scalable solutions.</h3><br>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=AbhinavPandey12&label=Profile%20views&color=0e75b6&style=flat" alt="AbhinavPandey12" /> 
-</p>
 
 <table>
 <tr>
