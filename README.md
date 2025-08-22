@@ -9,7 +9,7 @@
 <tr>
 <td width="40%" valign="top">
 
-- 🌱 I’m currently learning **AI & ML, TypeScript, Next.js**  
+- 🌱 I’m currently learning **AI & ML, TypeScript, and Next.js**  
 - 👨‍💻 All of my projects are available at [https://github.com/AbhinavPandey12](https://github.com/AbhinavPandey12?tab=repositories)  
 - 💬 Ask me about **MERN Stack Development, C/C++, Cloud & Devops**  
 - 📫 How to reach me: **abhinavpandey101@gmail.com**
