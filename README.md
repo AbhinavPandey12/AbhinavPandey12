@@ -10,7 +10,7 @@
 
 ### 🤝 Connect with me:  
 - [LinkedIn](https://www.linkedin.com/in/abhinav-pandey-465914223/)  
-- [GitHub](https://github.com/abhinav-pandey)  
+- [GitHub](https://github.com/AbhinavPandey12?tab=projects)  
 - [Twitter](https://twitter.com/abhinav-pandey)  
 
 ---
