@@ -44,12 +44,12 @@
 
 #### 🎨 Frontend  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,bootstrap,tailwind,figma,flutter&perline=12" />  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,bootstrap,tailwind,figma&perline=12" />  
 </p>  
 
 #### ⚙️ Backend  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,py,django,php&perline=12" />  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,py,django&perline=12" />  
 </p>  
 
 #### 🗄️ Databases & Big Data  
@@ -59,7 +59,7 @@
 
 #### 🔧 DevOps & Tools  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,jenkins,postman,cpp,opencv&perline=12" />  
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux,aws,jenkins,postman,cpp,opencv,pyspark,pytorch&perline=12" />  
 </p>  
 
 <!-- Extra badges for tools not supported by skillicons.dev -->
