@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js**  
 - 👨‍💻 All of my projects are available at [https://github.com/AbhinavPandey12]  
-- 💬 Ask me about **MERN Stack Development**  
+- 💬 Ask me about **MERN Stack Development, C/C++, Cloud & Devops**  
 - 📫 How to reach me: **abhinavpandey101@gmail.com**
   
 
