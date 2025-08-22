@@ -66,7 +66,7 @@
 
 #### 🔧 DevOps & Tools  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux,aws,postman,cpp,opencv,pyspark,pytorch&perline=12" />  
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux,aws,postman,cpp,opencv,pytorch&perline=12" />  
 </p>  
 
 <!-- Extra badges for tools not supported by skillicons.dev -->
@@ -75,5 +75,6 @@
 <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" />  
 <img src="https://img.shields.io/badge/Matlab-FF7400?style=for-the-badge&logo=mathworks&logoColor=white" />  
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />  
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=pyspark&logoColor=white" />  
 </p>  
