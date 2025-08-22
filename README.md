@@ -5,7 +5,7 @@
 <h3 align="center">⚡ Dedicated and versatile Full Stack & System Developer with expertise in delivering efficient applications and scalable solutions.</h3><br>
 
 <!-- Coding GIF section -->
-<p align="top-right">
+<p align="right">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="300"/>
 </p>
 
