@@ -8,28 +8,25 @@
 
 ---
 
-### 🤝 Connect with me   
+<!-- Connect with me section -->
+<h2 align="left">🤝 Connect with me</h2>
 
 <p align="left">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  
-  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/abhinavpandey101" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" height="40"/>
   </a>
-  
-  <!-- LeetCode -->
   <a href="https://leetcode.com/u/abhinavpandey101/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="40" />
   </a>
 </p>
 
-<!-- Coder Illustration on the Right -->
-<p align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
+<!-- Coding GIF section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="500"/>
+</p>" width="400"/>
 </p>
 
 ---
