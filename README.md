@@ -1,20 +1,10 @@
 <h1 align="center">👋 Hey Everyone, I'm Abhinav Pandey</h1>  
 <h3 align="center">⚡ Dedicated and versatile Full Stack & System Developer with expertise in delivering efficient applications and scalable solutions.</h3>  
 
-
-
-
 🌱 I’m currently learning **Advanced System Design, AI & ML, TypeScript, and Next.js**  
 👨‍💻 All of my projects are available at [https://github.com/abhinav-pandey](https://github.com/AbhinavPandey12?tab=repositories)  
 💬 Ask me about **MERN Stack, C/C++, CI/CD, Cloud & DevOps**  
 📫 How to reach me: **abhinavpandey101@gmail.com**  
-
----
-
-### 🤝 Connect with me:  
-- [LinkedIn](https://www.linkedin.com/in/abhinav-pandey-465914223/)  
-- [GitHub](https://github.com/AbhinavPandey12?tab=projects)  
-- [Twitter](https://twitter.com/abhinav-pandey)  
 
 ---
 
@@ -28,17 +18,21 @@
   
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/abhinavpandey101" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" alt="HackerRank" height="40" width="40" style="background-color:white; border-radius:8px; padding:5px;"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" height="40" width="40"/>
   </a>
   
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/abhinavpandey101/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="40" width="40" style="background-color:white;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40" width="40"/>
   </a>
-
 </p>
 
+<!-- Coder Illustration on the Right -->
+<p align="right">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400"/>
+</p>
 
+---
 
 ### 🛠️ Languages & Tools
 
@@ -59,7 +53,7 @@
 
 #### 🔧 DevOps & Tools  
 <p align="left">  
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux,aws,jenkins,postman,cpp,opencv,pyspark,pytorch&perline=12" />  
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,git,linux,aws,postman,cpp,opencv,pyspark,pytorch&perline=12" />  
 </p>  
 
 <!-- Extra badges for tools not supported by skillicons.dev -->
@@ -70,4 +64,3 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />  
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
 </p>  
-
