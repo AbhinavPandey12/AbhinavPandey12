@@ -15,11 +15,37 @@
 
 ---
 
-### 🛠️ Languages and Tools:  
+### 🛠️ Languages & Tools
 
+#### 🎨 Frontend  
 <p align="left">  
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,java,cpp,python,docker,git,html,css,tailwind,redux,postgres,mysql,graphql,postman,linux,aws,jenkins&perline=12" />  
-</p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,redux,bootstrap,tailwind,figma,flutter&perline=12" />  
+</p>  
+
+#### ⚙️ Backend  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,py,django,php&perline=12" />  
+</p>  
+
+#### 🗄️ Databases & Big Data  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,graphql,firebase,hadoop&perline=12" />  
+</p>  
+
+#### 🔧 DevOps & Tools  
+<p align="left">  
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,aws,jenkins,postman,cpp,opencv&perline=12" />  
+</p>  
+
+<!-- Extra badges for tools not supported by skillicons.dev -->
+<p align="left">  
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />  
+<img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black" />  
+<img src="https://img.shields.io/badge/Matlab-FF7400?style=for-the-badge&logo=mathworks&logoColor=white" />  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />  
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
+</p>  
+
 
 
 🛠️ Tech Stack
