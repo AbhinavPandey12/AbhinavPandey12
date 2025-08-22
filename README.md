@@ -4,39 +4,48 @@
 </h1> 
 <h3 align="center">⚡ Dedicated and versatile Full Stack & System Developer with expertise in delivering efficient applications and scalable solutions.</h3><br>
 
-<div style="display: flex; align-items: center;">
-  <!-- Left Side: Text -->
-  <div>
-    🌱 I’m currently learning <b>Advanced System Design, AI & ML, TypeScript, and Next.js</b> <br>
-    👨‍💻 All of my projects are available at 
-    <a href="https://github.com/AbhinavPandey12?tab=repositories" target="_blank">
-      https://github.com/abhinav-pandey
-    </a> <br>
-    💬 Ask me about <b>MERN Stack, C/C++, CI/CD, Cloud & DevOps</b> <br>
-    📫 How to reach me: <b>abhinavpandey101@gmail.com</b>
-  </div>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=AbhinavPandey12&label=Profile%20views&color=0e75b6&style=flat" alt="AbhinavPandey12" /> 
+</p>
 
-  <!-- Right Side: GIF -->
-  <span style="margin-left: 20px;">
-    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
-         alt="Coding GIF" width="250"/>
-  </span>
-</div>
- 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🌱 I’m currently learning **TypeScript, Next.js**  
+- 👨‍💻 All of my projects are available at [github.com/AbhinavPandey12](https://github.com/AbhinavPandey12)  
+- 💬 Ask me about **MERN Stack Development**  
+- 📫 How to reach me: **abhinavpandey101@gmail.com**
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="500"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- Connect with me section -->
-<h2 align="left">🤝 Connect with me</h2>
-  <!-- LinkedIn -->
+### 🌐 Connect with me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/u/abhinavpandey101/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
+  <a href="https://www.hackerrank.com/profile/abhinavpandey101" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" height="40"/>
   </a>
+  <a href="https://leetcode.com/u/abhinavpandey101/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="40"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/abhinavpandey101" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/>
+  </a>
+</p>
+
  <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/abhinavpandey101/" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40"/>
