@@ -21,9 +21,9 @@
 
   ### 🌐 Connect with me
   
-<div align="center" style="display: flex; justify-content: center; gap: 100px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap; flex-direction: space-evenly">
 
-  <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank" style="text-decoration:none; display:inline-block; margin-left: 20px;">
+  <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank" style="text-decoration:none; display:inline-block;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
 
