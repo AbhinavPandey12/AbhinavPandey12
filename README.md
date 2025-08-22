@@ -26,7 +26,7 @@
 </p>
 
 <!-- Coding GIF section -->
-<p align="right>
+<p align="right">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="500"/>
 </p>
 
