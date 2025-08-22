@@ -46,18 +46,3 @@
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
 </p>  
 
-
-
-🛠️ Tech Stack
-
-🌐 Frontend :
-⚛️ React.js | 🎨 HTML | 🎭 CSS | 🌀 Tailwind | 🔧 JavaScript/TypeScript
-
-🔙 Backend :
-🟢 Node.js | ⚡ Express.js | 🗄️ MongoDB | 🛢️ SQL | 🔄 REST APIs | 🐳 Docker
-
-📊 Data & Analytics :
-🐍 Python | 🔥 PySpark | 📓 Jupyter Notebook | 📊 Data Visualization
-
-⚙️ DevOps & Tools : 
-⚙️ Jenkins | 🐙 Git/GitHub | 🛠️ Conan | 🐧 Linux (RHEL)
