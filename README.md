@@ -1,4 +1,4 @@
-######################## Hey Everyone 👋, I'm Abhinav Pandey  
+###### Hey Everyone 👋, I'm Abhinav Pandey  
 ###### 🚀 Full Stack & System Developer | 🌍 India  
 
 🛠️ Tech Stack
