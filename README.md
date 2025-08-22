@@ -2,6 +2,8 @@
 <h3 align="center">⚡ Dedicated and versatile Full Stack & System Developer with expertise in delivering efficient applications and scalable solutions.</h3>  
 
 
+
+
 🌱 I’m currently learning **Advanced System Design, AI & ML, TypeScript, and Next.js**  
 👨‍💻 All of my projects are available at [https://github.com/abhinav-pandey](https://github.com/AbhinavPandey12?tab=repositories)  
 💬 Ask me about **MERN Stack, C/C++, CI/CD, Cloud & DevOps**  
@@ -16,19 +18,26 @@
 
 ---
 
-### 🤝 Connect with me  
+### 🤝 Connect with me   
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
+  
+  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/abhinavpandey101" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" alt="HackerRank" height="40" width="40" style="background-color:#2EC866; border-radius:8px; padding:5px;"/>
   </a>
+  
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/abhinavpandey101/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="40" width="40"/>
   </a>
+
 </p>
+
 
 
 ### 🛠️ Languages & Tools
