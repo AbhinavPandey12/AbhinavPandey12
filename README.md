@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hey Everyone, I'm Abhinav Pandey</h1>  
 <h3 align="center">⚡ Dedicated and versatile Full Stack & System Developer with expertise in delivering efficient applications and scalable solutions.</h3>  
 
-🌱 I’m currently learning **Advanced System Design, TypeScript, and Next.js**  
+🌱 I’m currently learning **Advanced System Design, AI & ML, TypeScript, and Next.js**  
 👨‍💻 All of my projects are available at [https://github.com/abhinav-pandey](https://github.com/abhinav-pandey)  
 💬 Ask me about **MERN Stack, C/C++, CI/CD, Cloud & DevOps**  
-📫 How to reach me: **abhinavpandey2112@gmail.com**  
+📫 How to reach me: **abhinavpandey101@gmail.com**  
 
 ---
 
