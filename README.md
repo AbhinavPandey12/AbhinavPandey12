@@ -18,7 +18,8 @@
 - 📫 How to reach me: **abhinavpandey101@gmail.com**
   
 
-  ### 🌐 Connect with me  
+  ### 🌐 Connect with me
+  
  <p align="center">
   <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
