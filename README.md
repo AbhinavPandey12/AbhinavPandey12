@@ -17,15 +17,15 @@
 <h2 align="left">🤝 Connect with me</h2>
   <!-- LinkedIn -->
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/abhinavpandey101/" target="_blank">
+  <a href="https://leetcode.com/u/abhinavpandey101/" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
   </a>
  <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/abhinavpandey101/" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/abhinavpandey101/" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40"/>
   </a>
 </p>
