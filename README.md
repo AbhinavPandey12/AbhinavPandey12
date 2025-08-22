@@ -17,10 +17,10 @@
   </div>
 
   <!-- Right Side: GIF -->
-  <div style="margin-left: 20px;">
+  <span style="margin-left: 20px;">
     <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
          alt="Coding GIF" width="250"/>
-  </div>
+  </span>
 </div>
  
 
