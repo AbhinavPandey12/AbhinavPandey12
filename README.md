@@ -18,7 +18,7 @@
 - 📫 How to reach me: **abhinavpandey101@gmail.com**
 
   ### 🌐 Connect with me  
-<p align="left">
+<br><p align="left">
   <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
@@ -43,16 +43,6 @@
 </td>
 </tr>
 </table>
-
----
-
-
-
- <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/abhinavpandey101/" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40"/>
-  </a>
-</p>
 
 ---
 
