@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
 
-  <a href="https://www.hackerrank.com/profile/abhinavpandey101" target="_blank" style="text-decoration:none; display:inline-block;">
+  <a href="https://www.hackerrank.com/profile/abhinavpandey101" style="text-decoration:none; display:inline-block;">
     <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" height="50"/>
   </a>
 
