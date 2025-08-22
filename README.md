@@ -79,3 +79,13 @@
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>  
+
+#### 🤖 AI & ML  
+<p align="left">  
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />  
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Cursor-4A90E2?style=for-the-badge&logo=cursor&logoColor=white" />  
+  <img src="https://img.shields.io/badge/LLaMA-FF6F00?style=for-the-badge&logo=meta&logoColor=white" />  
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Mistral-AF67E9?style=for-the-badge&logo=mistral&logoColor=white" />  
+</p>
