@@ -17,20 +17,7 @@
 - 💬 Ask me about **MERN Stack Development**  
 - 📫 How to reach me: **abhinavpandey101@gmail.com**
 
-</td>
-<td width="50%" valign="top">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="500"/>
-</p>
-
-</td>
-</tr>
-</table>
-
----
-
-### 🌐 Connect with me  
+  ### 🌐 Connect with me  
 <p align="left">
   <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
@@ -45,6 +32,21 @@
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/>
   </a>
 </p>
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="500"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+
 
  <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/abhinavpandey101/" target="_blank" rel="noopener noreferrer">
