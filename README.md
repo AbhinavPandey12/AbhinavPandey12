@@ -18,12 +18,12 @@
 - 📫 How to reach me: **abhinavpandey101@gmail.com**
   
 
-  ### 🌐 Connect with me
+### 🌐 Connect with me
   
 <div align="center" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap;">
 
   <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank" style="text-decoration:none; display:inline-block;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" style="text-decoration:none/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
 
   <a href="https://www.hackerrank.com/profile/abhinavpandey101" target="_blank" style="text-decoration:none; display:inline-block;">
