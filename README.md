@@ -10,10 +10,10 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 - 🌱 I’m currently learning **TypeScript, Next.js**  
-- 👨‍💻 All of my projects are available at [github.com/AbhinavPandey12](https://github.com/AbhinavPandey12)  
+- 👨‍💻 All of my projects are available at [https://github.com/AbhinavPandey12]  
 - 💬 Ask me about **MERN Stack Development**  
 - 📫 How to reach me: **abhinavpandey101@gmail.com**
   
