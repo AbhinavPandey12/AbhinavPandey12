@@ -28,12 +28,12 @@
   
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/profile/abhinavpandey101" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" alt="HackerRank" height="40" width="40" style="background-color:#2EC866; border-radius:8px; padding:5px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" alt="HackerRank" height="40" width="40" style="background-color:white; border-radius:8px; padding:5px;"/>
   </a>
   
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/abhinavpandey101/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="40" width="40" style="background-color:white;"/>
   </a>
 
 </p>
