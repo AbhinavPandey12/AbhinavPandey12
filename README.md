@@ -1,13 +1,13 @@
 🛠️ Tech Stack
 
-🌐 Frontend
+🌐 Frontend :
 ⚛️ React.js | 🎨 HTML | 🎭 CSS | 🌀 Tailwind | 🔧 JavaScript/TypeScript
 
-🔙 Backend
+🔙 Backend :
 🟢 Node.js | ⚡ Express.js | 🗄️ MongoDB | 🛢️ SQL | 🔄 REST APIs | 🐳 Docker
 
-📊 Data & Analytics
+📊 Data & Analytics :
 🐍 Python | 🔥 PySpark | 📓 Jupyter Notebook | 📊 Data Visualization
 
-⚙️ DevOps & Tools
+⚙️ DevOps & Tools : 
 ⚙️ Jenkins | 🐙 Git/GitHub | 🛠️ Conan | 🐧 Linux (RHEL)
