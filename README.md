@@ -21,16 +21,16 @@
   ### 🌐 Connect with me
   
  <p align="center">
-  <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank style="margin: 0 15">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/abhinavpandey101" target="_blank">
+  <a href="https://www.hackerrank.com/profile/abhinavpandey101" target="_blank style="margin: 0 15">
     <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" height="40"/>
   </a>
-  <a href="https://leetcode.com/u/abhinavpandey101/" target="_blank">
+  <a href="https://leetcode.com/u/abhinavpandey101/" target="_blank style="margin: 0 15">
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="40"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/abhinavpandey101" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/abhinavpandey101" target="_blank style="margin: 0 15">
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/>
   </a>
 </p>
