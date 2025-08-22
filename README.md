@@ -16,6 +16,21 @@
 
 ---
 
+### 🤝 Connect with me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhinav-pandey-465914223/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/abhinavpandey101" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/abhinavpandey101/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="LeetCode" height="40" />
+  </a>
+</p>
+
+
 ### 🛠️ Languages & Tools
 
 #### 🎨 Frontend  
