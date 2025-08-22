@@ -76,5 +76,5 @@
 <img src="https://img.shields.io/badge/Matlab-FF7400?style=for-the-badge&logo=mathworks&logoColor=white" />  
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />  
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-<img src="https://commons.wikimedia.org/wiki/File:Apache_Spark_logo.svg" width="200" alt="Apache Spark Logo" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>  
