@@ -4,15 +4,25 @@
 </h1> 
 <h3 align="center">⚡ Dedicated and versatile Full Stack & System Developer with expertise in delivering efficient applications and scalable solutions.</h3><br>
 
-<!-- Coding GIF section -->
-<p align="right">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" width="300"/>
-</p>
+<div style="display: flex; align-items: center;">
+  <!-- Left Side: Text -->
+  <div>
+    🌱 I’m currently learning <b>Advanced System Design, AI & ML, TypeScript, and Next.js</b> <br>
+    👨‍💻 All of my projects are available at 
+    <a href="https://github.com/AbhinavPandey12?tab=repositories" target="_blank">
+      https://github.com/abhinav-pandey
+    </a> <br>
+    💬 Ask me about <b>MERN Stack, C/C++, CI/CD, Cloud & DevOps</b> <br>
+    📫 How to reach me: <b>abhinavpandey101@gmail.com</b>
+  </div>
 
-🌱 I’m currently learning **Advanced System Design, AI & ML, TypeScript, and Next.js**  
-👨‍💻 All of my projects are available at [https://github.com/abhinav-pandey](https://github.com/AbhinavPandey12?tab=repositories)  
-💬 Ask me about **MERN Stack, C/C++, CI/CD, Cloud & DevOps**  
-📫 How to reach me: **abhinavpandey101@gmail.com**  
+  <!-- Right Side: GIF -->
+  <div style="margin-left: 20px;">
+    <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
+         alt="Coding GIF" width="250"/>
+  </div>
+</div>
+ 
 
 ---
 
