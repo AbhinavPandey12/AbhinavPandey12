@@ -9,7 +9,7 @@
 ---
 
 ### 🤝 Connect with me:  
-- [LinkedIn]([https://linkedin.com/in/abhinav-pandey](https://www.linkedin.com/in/abhinav-pandey-465914223/))  
+- [LinkedIn](https://www.linkedin.com/in/abhinav-pandey-465914223/)  
 - [GitHub](https://github.com/abhinav-pandey)  
 - [Twitter](https://twitter.com/abhinav-pandey)  
 
