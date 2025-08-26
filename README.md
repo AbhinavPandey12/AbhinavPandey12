@@ -56,7 +56,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="70%" valign="top">
 
 #### 📦 System Design  
 <p align="left">  
@@ -114,9 +114,9 @@
 </p>
 </td>
 
-<td width="50%" valign="middle" align="center">
+<td width="30%" valign="middle" align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkwbjM3aWhnMTFiNnMyb2I4OTU5b2ZsZmJvN2lweHA0bm95MnZ3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="300" height="900" alt="Tech Stack GIF"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkwbjM3aWhnMTFiNnMyb2I4OTU5b2ZsZmJvN2lweHA0bm95MnZ3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="300" alt="Tech Stack GIF"/>
 
 </td>
 </tr>
