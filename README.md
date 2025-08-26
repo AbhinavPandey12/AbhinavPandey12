@@ -44,9 +44,8 @@
 <td width="50%" valign="top">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" width="500"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHA2Mmg3cW54amhxMm11am5uM3J0bnc4enVnbTl6anFhdXhwNWM2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
 </p>
-
 </td>
 </tr>
 </table>
