@@ -56,7 +56,7 @@
 
 <table>
 <tr>
-<td width="108%" valign="top">
+<td width="100%" valign="top">
 
 #### 📦 System Design  
 <p align="left">  
