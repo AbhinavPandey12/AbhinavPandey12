@@ -53,9 +53,9 @@
 
 ---
 
-### 🛠️ Core Competencies 🧠
+## 🛠️ Core Competencies 🧠
 
-## 📦 System Design  
+#### 📦 System Design  
 <p align="left">  
   <img src="https://img.shields.io/badge/Microservices-4CAF50?style=for-the-badge" />  
   <img src="https://img.shields.io/badge/Distributed%20Systems-1976D2?style=for-the-badge" />  
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/Database%20Architecture-64B5F6?style=for-the-badge" />  
 </p>
 
-## 🧩 Problem Solving  
+#### 🧩 Problem Solving  
 <p align="left">  
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge" />  
   <img src="https://img.shields.io/badge/Data%20Structures-6A1B9A?style=for-the-badge" />  
