@@ -16,7 +16,7 @@
   
 
 
-  ### 🌐 Connect with me
+  ### 🌐  Connect with me
   
 <div align="center" style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap; flex-direction: space-evenly">
 
