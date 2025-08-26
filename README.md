@@ -55,6 +55,11 @@
 
 ## 🛠️ Core Competencies 🧠
 
+
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF"/>
+</p>
+
 #### 📦 System Design  
 <p align="left">  
   <img src="https://img.shields.io/badge/Microservices-4CAF50?style=for-the-badge" />  
