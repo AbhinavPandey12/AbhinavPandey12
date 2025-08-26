@@ -117,7 +117,7 @@
 <td width="40%" valign="middle" align="center">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkwbjM3aWhnMTFiNnMyb2I4OTU5b2ZsZmJvN2lweHA0bm95MnZ3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" 
-     style="width:300px; height:450px;" alt="Tech Stack GIF"/>
+     style="width:450px; height:450px;" alt="Tech Stack GIF"/>
 
 </td>
 </tr>
