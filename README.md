@@ -54,9 +54,7 @@
 
 ## 🛠️ Core Competencies 🧠
 
-<table>
-<tr>
-<td width="100%" valign="top">
+
 
 #### 📦 System Design  
 <p align="left">  
@@ -112,9 +110,7 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />  
   <img src="https://img.shields.io/badge/Mistral-AF67E9?style=for-the-badge&logo=mistral&logoColor=white" />  
 </p>
-</td>
-</tr>
-</table>
+
 
 ---
 
