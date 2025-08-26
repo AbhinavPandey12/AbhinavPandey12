@@ -54,9 +54,9 @@
 
 ## 🛠️ Core Competencies 🧠
 
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkwbjM3aWhnMTFiNnMyb2I4OTU5b2ZsZmJvN2lweHA0bm95MnZ3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="300" alt="Tech Stack GIF"/>
-</p>
+<table>
+<tr>
+<td width="70%" valign="top">
 
 #### 📦 System Design  
 <p align="left">  
@@ -112,6 +112,15 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />  
   <img src="https://img.shields.io/badge/Mistral-AF67E9?style=for-the-badge&logo=mistral&logoColor=white" />  
 </p>
+</td>
+
+<td width="30%" valign="middle" align="center">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWkwbjM3aWhnMTFiNnMyb2I4OTU5b2ZsZmJvN2lweHA0bm95MnZ3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.gif" width="300" alt="Tech Stack GIF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
