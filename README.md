@@ -126,15 +126,12 @@
 </tr>
 </table>
 
----
-
 ### 🧠 Top Languages
 
  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AbhinavPandey12&theme=radical&hide_border=true" width="48%" /> 
----
 
 ### 📈 Contribution Graph
 
-| <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbhinavPandey12&layout=compact&theme=radical&hide_border=true" width="48%" /> 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbhinavPandey12&layout=compact&theme=radical&hide_border=true" width="48%" /> 
 </div>
 
