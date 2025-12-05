@@ -109,6 +109,31 @@
   <img src="https://img.shields.io/badge/LLaMA-FF6F00?style=for-the-badge&logo=meta&logoColor=white" />  
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />  
   <img src="https://img.shields.io/badge/Mistral-AF67E9?style=for-the-badge&logo=mistral&logoColor=white" />  
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral-AF67E9?style=for-the-badge&logo=mistral&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA-FF6F00?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=ai&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/RAG-0A9396?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/GANs-6A1B9A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langchain-1C3C8C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-009FBD?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-2E026C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADKs-FF4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SHAP-FF4081?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIME-43A047?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-0078D4?style=for-the-badge&logo=azurepipelines&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 
