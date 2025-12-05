@@ -116,14 +116,30 @@
 
 ## 📊 GitHub Contributions Dashboard  
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 10px;">
+## 📊 GitHub Contributions Dashboard
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AbhinavPandey12&theme=radical&hide_border=true" width="45%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavPandey12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="45%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavPandey12&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavPandey12&theme=radical&hide_border=true" alt="GitHub Activity Graph" width="45%" />
+<div align="center">
+
+### 🔥 Contributions & Stats
+
+<table>
+<tr>
+<td><img src="https://github-readme-streak-stats-eight.vercel.app/?user=AbhinavPandey12&theme=radical&hide_border=true" alt="GitHub Streak Stats" width="100%"/></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=AbhinavPandey12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%"/></td>
+</tr>
+</table>
+
+---
+
+### 🧠 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavPandey12&layout=compact&theme=radical&hide_border=true" width="60%"/>
+
+---
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavPandey12&theme=radical&hide_border=true" width="90%"/>
 
 </div>
+
