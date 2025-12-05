@@ -126,12 +126,23 @@
 </tr>
 </table>
 
-### 🧠 Top Languages
+### 🧠 Top Languages & Tech Stack
 
- <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AbhinavPandey12&theme=radical&hide_border=true" width="48%" /> 
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
 
 ### 📈 Contribution Graph
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbhinavPandey12&layout=compact&theme=radical&hide_border=true" width="48%" /> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhinavPandey12&theme=react-dark&hide_border=true&area=true" width="95%" />
+
 </div>
 
