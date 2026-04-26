@@ -11,7 +11,8 @@
 
 - 🌱 I’m currently learning **AI & ML, TypeScript, Golang and Next.js**  
 - 👨‍💻 All of my projects are available at [https://github.com/AbhinavPandey12](https://github.com/AbhinavPandey12?tab=repositories)  
-- 💬 Ask me about **MERN Stack Development, Java & Python, Cloud & Devops, and AI-ML**  
+- 💬 Ask me about **MERN Stack Development, 
+     Java & Python, Cloud & Devops, and AI-ML**  
 - 📫 How to reach me: **abhinavpandey101@gmail.com**
   
 
